@@ -4,5 +4,15 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+꽤 빨리 진로를 정했습니다.
+
+게임에 흥미를 가졌고 또 만들고 싶었습니다.  
+음악도, 그림도, 이야기도 좋아했는데 (그땐 참 건방졌던 것 같습니다.)
+
+프로그래밍은 그 모든 것을 움직이게 할 수 있었기 때문입니다.
+
+비교적 이른 나이에 게임 클라이언트 프로그래머로 일하기 시작해서   
+어느새 10년이 넘었습니다.
+
+
+이 곳에는 공부한 것들, 만들며 겪은 경험, 그리고 이런저런 생각을 기록할 예정입니다.
